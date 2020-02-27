@@ -1,0 +1,12 @@
+### WebStorm/IntelliJ ###
+/.idea
+
+# Dependency directories
+/node_modules
+/jspm_packages
+/bower_components
+
+# Build generated
+/dist
+/archives
+/package
